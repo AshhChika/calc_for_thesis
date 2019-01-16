@@ -1,0 +1,56 @@
+ 32S     32P B- DECAY (14.268 D)       2002UN02,1994CO02,1979PR1411NDS    201109
+ 32S   H TYP=FUL$AUT=CHRISTIAN OUELLET, BALRAJ SINGH$CIT=NDS 112, 2199 (2011)$  
+ 32S 2 H CUT=24-Aug-2011$                                                       
+ 32S  c  Half-life measurements: 2002Un02, 1994Co02, 1979Pr14, 1977Mu07,        
+ 32S 2c  1977Be59, 1969La34, 1969Pe04, 1966Go16, 1961Ma46, 1959Ro51, 1958Da10,  
+ 32S 3c  1957An03, Bayly (Can J Research 28|a, 520 (1956)), 1953Lo09, 1951Si25, 
+ 32S 4c  1948Kl28, Mulder (Physica 7, 849 (1940)), 1938Ca01,                    
+ 32S 5c  Capron (Physica 5, 882 (1938)); Newson (Phys Rev 51, 624 (1937));      
+ 32S 6c  Sizoo (Physica 3, 1053 (1936)); Preiswerk (Compt Rendu 201, 722        
+ 32S 7c  (1935)); Ambrosen (Z. Phys 91, 43 (1934))                              
+ 32S  c  2000Ga56: measurement of effect on half-life by chiral molecular       
+ 32S 2c  solvents with right-handed and left-handed polarizations. The          
+ 32S 3c  authors report a maximum change of 1.52% in T{-1/2} with values        
+ 32S 4c  ranging from 14.28 d {I8} (standard value from literature used         
+ 32S 5c  as reference for sample in water) to 14.07 d {I8} for right handed     
+ 32S 6c  2-phenylbutyric acid. These measurements need to be verified           
+ 32S 7c  independently.                                                         
+ 32S  c  |b-endpoint energy measurements: 2001Ko07, 1993Gr17, 1979Pr14,         
+ 32S 2c  1976Mo12, 1971Ze04, 1971Pe03, 1971Bo01, 1969Fl02, 1968Fi04, 1966Ca10,  
+ 32S 3c  1963Bo31, Fehrentz (Nucl Instr Meth 10, 185 (1961)), 1961Ni02,         
+ 32S 4c  1958Jo33, 1958Da10, 1957Ri41, 1956Po07, Antoneva (Izv Akad Nauk Fiz 18,
+ 32S 5c  93 (1954)), 1952Je12, Marshaw (Phys Rev 80, 288 (1950)), 1950Ag01,     
+ 32S 6c  1949La06, 1946Si09, Capron (Physica 5, 882 (1938)); Newson             
+ 32S 7c  (Phys Rev 51, 624 (1937)); Lyman (Phys Rev 51, 1 (1937))               
+ 32S  d  Some recent references for standardization of {+32}P source and |b-:   
+ 32S 2d  2004Da06, 2003Dh02, 2001Ko07, 1996Wo08, 1994Sm08, 1994Co02, 1994Br45,  
+ 32S 3d  1993Gr17, 1991Sy01, 1989Ta08, 1988Na17, 1988Ch45.                      
+ 32S  c  From RADLIST code, deduced energy balance=1710.6 keV {I2} as compared  
+ 32S 2c  to 1710.66 keV {I4} from Q value                                       
+ 32S  cL J$From Adopted Levels                                                  
+ 32P   P 0           1+                14.268 D  5              1710.66   4     
+ 32P  cP T$From {+32}P Adopted Levels                                           
+ 32P  cP QP$From 2011AuZZ. Other: 1710.48 {I22} (2003Au03)                      
+ 32S   N                       1.0       1.0                                    
+ 32S   L 0           0+                                                         
+ 32S   B             100                  7.9002 2                              
+ 32S S B EAV=695.03                        
+ 
+ 33S     33P B- DECAY (25.35 D)        1984PO09                  11NDS    201105
+ 33S   H TYP=FUL$AUT=JUN CHEN AND BALRAJ SINGH$CIT=NDS 112, 1393 (2011)$        
+ 33S 2 H CUT=31-Mar-2011$                                                       
+ 33S  c  1984Po09: Measured decay Q(|b{+-})value. Other: 2004Si04.              
+ 33S  c  Half-life measurements:                                                
+ 33S 2c  1972La14, 1972La14, 1954Ni06, 1952Je12, 1952westermark:                
+ 33S 3c  Phys Rev 88, 573; 1951Sheline: Phys Rev 83, 919                        
+ 33S  c  E|b measurements: 1954Ni06; 1954Elbek: Phys Rev 95, 96;                
+ 33S 2c  1952Westermark: Phys Rev 88, 573; 1952Je12; 1951Sheline:               
+ 33S 3c  Phys Rev 83, 919                                                       
+ 33S  c  No |g activity detected: 1952Westermark: Phys Rev 88, 573;             
+ 33S 2c  1954Langevin: J Phys Rad 15, 778                                       
+ 33S   N                       1.0       1.0                                    
+ 33P   P        0    1/2+                25.35 D 11             248.5     11    
+ 33P  cP QP$from 2009AuZZ and 2003Au03                                          
+ 33S   L        0    3/2+               STABLE                                  
+ 33S   B                100                5.022  7                             
+ 33S S B EAV=76.43 39
